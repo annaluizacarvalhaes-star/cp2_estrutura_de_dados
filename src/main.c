@@ -26,16 +26,8 @@ printf("Digite a nota 1: ");
 scanf("%f", %nota)
 printf ("Digite a nota 2: ");
 
-case 2:
- if (nota1 && nota2){
-   media = (nota1+ nota2) / 2
-printf ("Media calculada com sucesso!");
- }
- else {
-  printf ("Erro: Insira as notas primeiro (opcao 1)\n");
- }
-break;
 
-case 3 
+
+ 
     return 0;
 }
