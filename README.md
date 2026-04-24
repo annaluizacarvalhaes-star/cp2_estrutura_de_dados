@@ -3,6 +3,12 @@
 ## Modalidade
 Grupo de 5 integrantes
 
+Integrantes:
+Anna Luiza Carvalhaes - RM: 573330
+Samara Carvalho - RM: 573666
+Gabriela Batista - RM: 
+Kethelyn Rocha - RM: 
+
 ## Regras
 - Trabalhar no mesmo repositório
 - Mínimo de 3 commits por integrante
