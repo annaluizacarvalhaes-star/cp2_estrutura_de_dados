@@ -8,7 +8,7 @@ int main() {
       printf("Digite a segunda nota: ");
       scanf("%f", &nota2);
 
-
+    media = nota1 + nota2 / 2; 
     
     return 0;
 }
