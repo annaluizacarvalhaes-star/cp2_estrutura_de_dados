@@ -21,9 +21,10 @@ switch (opcao){
 
 case1:
 printf("Digite a nota 1: ");
-
-scanf("%f", %nota);
+scanf("%f", &nota1);
 printf("Digite a nota 2: ");
+scanf("%f", &nota2);
+break;
 
 case 3:
 if(media >= 7.0){
@@ -51,7 +52,7 @@ default:
 printf("Opcao invalida! Tente novamente.\n");
 }
  return 0;
- 
+
 }
 
  
