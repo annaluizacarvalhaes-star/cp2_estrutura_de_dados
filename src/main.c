@@ -22,7 +22,7 @@ switch (opcao){
 case1:
 printf("Digite a nota 1: ");
 
-scanf("%f", %nota)
+scanf("%f", %nota);
 printf("Digite a nota 2: ");
 
 case 3:
@@ -45,16 +45,13 @@ break;
 
 case 6:
 printf("Saindo do sistema....\n");
-brek;
+break;
 
 default:
 printf("Opcao invalida! Tente novamente.\n");
 }
-
-}
-
-
+ return 0;
  
-    return 0;
 }
+
  
