@@ -6,8 +6,8 @@ Grupo de 5 integrantes
 Integrantes:
 Anna Luiza Carvalhaes - RM: 573330
 Samara Carvalho - RM: 573666
-Gabriela Batista - RM: 
-Kethelyn Rocha - RM: 
+Gabriela Batista - RM: 573583
+Kethelyn Rocha - RM: 574016
 
 ## Regras
 - Trabalhar no mesmo repositório
