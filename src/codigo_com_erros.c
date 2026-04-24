@@ -19,3 +19,6 @@ int main() {
 
     return 0;
 }
+
+// corrigimos o include, que estava entre aspas para "<;>""
+// adicionamos ponto virgula depois de declarar as variaveis
